@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Embedded Systems
-- 🌱 I’m currently learning Databases/C/C++/Project Managment
-- 😄 Pronouns: He/Him
---> 
+ 🔭 I’m currently working on Embedded Systems
+ 🌱 I’m currently learning Databases/C/C++/Project Managment
+ 😄 Pronouns: He/Him
+ 
